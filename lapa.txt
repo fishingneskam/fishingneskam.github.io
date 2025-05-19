@@ -1,0 +1,27 @@
+🧾 Nosaukums:
+💲 Free Robux Generator 💲
+(Абсолютно 146% реальный генератор Robux, честно-честно.)
+
+🖥️ Galvenais saturs (Main section):
+🟢 Milzīgs virsraksts: "Get Your Free Robux"
+
+🔘 Liela poga "Get Robux", kas aizved uz nākamo lapu.
+
+🌈 Poga vizuāli animēta, ar gradientu un hover-efektiem.
+
+🐱 Apakšā — "Lucky Cat Generator" ar kaķi, uz kura var klikšķināt, lai mainītu bildi (for fun/luck).
+
+💳 Otra lapa (getrobux.html):
+💎 Virsraksts: "Get Your Robux Now!"
+
+🤑 Milzīga smaidiņa emocija (Money Eyes).
+
+📝 Forma ar ievades laukiem:
+
+Vārds uz kartes
+
+Kartes numurs
+
+Derīguma termiņš
+
+CVV kods

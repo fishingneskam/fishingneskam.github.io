@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>💲| Free Robux |💲</title>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>💲 | Free Robux Generator | 💲</h1>
+        </header>
+        <main>
+            <div class="card">
+                <h2>🎮 Get Your Free Robux</h2>
+                <div class="robux-input">
+                    <button class="generate-btn epic-btn" onclick="window.location.href='getrobux.html'">Get Robux</button>
+                </div>
+            </div>
+            <style>
+                .epic-btn {
+                    background: linear-gradient(45deg, #ff416c, #ff4b2b);
+                    color: white;
+                    border: none;
+                    padding: 15px 30px;
+                    font-size: 1.5em;
+                    font-weight: bold;
+                    border-radius: 10px;
+                    cursor: pointer;
+                    transition: transform 0.3s, box-shadow 0.3s, background 0.3s;
+                    box-shadow: 0 4px 15px rgba(255, 75, 43, 0.5);
+                }
+                .epic-btn:hover {
+                    transform: scale(1.2) rotate(2deg);
+                    box-shadow: 0 6px 20px rgba(255, 75, 43, 0.7);
+                    background: linear-gradient(45deg, #ff4b2b, #ff416c);
+                }
+            </style>
+            
+        </main>
+        <footer>
+            <div class="card">
+                <h3>🐱 Lucky Cat Generator</h3>
+                <p>Click the cat for good luck!</p>
+                <script>
+                    function changeCatImage(img) {
+                        img.src = 'https://cataas.com/cat?random=' + Math.random();
+                    }
+                </script>
+                <img src="https://cataas.com/cat?random=1" alt="Random Cat" class="cat-image" onclick="changeCatImage(this)">
+            </div>
+        </footer>
+    </div>
+</body>
+</html>
